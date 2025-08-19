@@ -139,7 +139,3 @@ class ClientHandler extends Thread {
 
 ![Image](https://github.com/user-attachments/assets/5e053f79-9fbc-46b5-8cc9-17f9bf2d997e)
   
-	public static void main(String[] args) {
-		SwingUtilities.invokeLater(ClientGUI::new);
-	}
-}
